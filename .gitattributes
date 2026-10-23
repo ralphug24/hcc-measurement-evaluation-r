@@ -1,0 +1,5 @@
+# Preserve original coursework bytes and source-manifest checksums.
+original/** -text
+data/** -text
+outputs/** -text
+reports/** -text
