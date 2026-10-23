@@ -1,0 +1,112 @@
+{
+  "source_archive": "Bart.zip",
+  "course_term": "Spring 2024",
+  "outputs": "Images extracted unchanged from the original assignment reports; no new R execution",
+  "files": [
+    {
+      "path": "original/reports/hw1.docx",
+      "source_member": "Bart/Assignments/Bart HW1.docx",
+      "sha256": "12e8cc45db033eee158089da8f93fd883e52da9c331e6d772119d7f7ef373e5e"
+    },
+    {
+      "path": "original/scripts/hw1.R",
+      "source_member": "Bart/R scripts/HW1.R",
+      "sha256": "24fa8b1f4cb18789c597eb4dcae7bd33dd109ccbafe954840cb1a70f3c5d6c1c"
+    },
+    {
+      "path": "original/reports/hw2.docx",
+      "source_member": "Bart/Assignments/Bart HW2.docx",
+      "sha256": "de3bbe59ffba9bc114f2e98ce5335e0ae9a0fe3165872b4c15a7aafec34aea3e"
+    },
+    {
+      "path": "original/scripts/hw2.R",
+      "source_member": "Bart/R scripts/HW2.R",
+      "sha256": "7ba6a1ee242304fe83d43bc1b15055ef88a87f5fdb04f79b3c2a1e7a1a1f5655"
+    },
+    {
+      "path": "original/reports/hw3.docx",
+      "source_member": "Bart/Assignments/Bart HW3.docx",
+      "sha256": "814822f098e753d31272659c13f7f9c3df085082aaa2a469511efc9d311331fb"
+    },
+    {
+      "path": "original/scripts/hw3.R",
+      "source_member": "Bart/R scripts/HW 3.R",
+      "sha256": "b958c519a6dc7178d01f574e306850e44d195f001132895c648eb36b5f359308"
+    },
+    {
+      "path": "original/reports/hw4.docx",
+      "source_member": "Bart/Assignments/Bart HW4.docx",
+      "sha256": "42467a761c11731eb20524772ab4b13c1fc6af88932d874aba708e24eea9d15f"
+    },
+    {
+      "path": "original/scripts/hw4.R",
+      "source_member": "Bart/R scripts/HW 4.R",
+      "sha256": "17b7ff789d4facc223cad79b5221ceaf0b86d891c365b46c653551347ce1f9d7"
+    },
+    {
+      "path": "data/tw.dat",
+      "source_member": "Bart/Datasets/hw1/tw.dat",
+      "sha256": "bead9ec9b4cc6fba84ded807a5d3261533de88b584a51ebb9ae2dcb9560461fe"
+    },
+    {
+      "path": "data/privacy.csv",
+      "source_member": "Bart/Assignments/hw3/privacy.csv",
+      "sha256": "d36ee0bfb5bb49980a3745a4840976158f8fe1e1559aa0764cdd5d4397da03b2"
+    },
+    {
+      "path": "data/div.dat",
+      "source_member": "Bart/Assignments/hw4/div.dat",
+      "sha256": "ea4962d59b09d7ba4b6fe7e40d26cc8610c0158db18309f8d31ec855d919077f"
+    },
+    {
+      "path": "original/reports/hw4.pdf",
+      "source_member": "Bart/Assignments/Raphael Ugboko HW4.pdf",
+      "sha256": "3c2fb504933144f8dea3a6dd2a850cdb6b98090439c2b7d0e4a7627dcc174989"
+    },
+    {
+      "path": "outputs/hw1-quality-rating.png",
+      "source_member": "Bart/Assignments/Bart HW1.docx::word/media/image3.png",
+      "sha256": "90c974fbdd4277c3d55349f51e5ae40e1c7c667c9e3c0c23dd8fea4bed46f917"
+    },
+    {
+      "path": "outputs/hw1-regression.png",
+      "source_member": "Bart/Assignments/Bart HW1.docx::word/media/image7.png",
+      "sha256": "3f87e771b19593c9eb5f0b3ef517ebb75f984d4fdd20da7064c5e616e28c2572"
+    },
+    {
+      "path": "outputs/hw2-condition-means.png",
+      "source_member": "Bart/Assignments/Bart HW2.docx::word/media/image2.png",
+      "sha256": "b1c1e106bca933ef80bbee0c2717c42c40b22795892d097711cf7c1a8e24204c"
+    },
+    {
+      "path": "outputs/hw2-factorial-anova.png",
+      "source_member": "Bart/Assignments/Bart HW2.docx::word/media/image22.png",
+      "sha256": "2f07748328fac5022edd4abb8f11505422e9fd69db50378bb616b47ea8aa0c76"
+    },
+    {
+      "path": "outputs/hw2-welch-test.png",
+      "source_member": "Bart/Assignments/Bart HW2.docx::word/media/image8.png",
+      "sha256": "670b58dafb889165275900fc2d9e33d5e3fa75ad42538afb3d06e87aab8d413c"
+    },
+    {
+      "path": "outputs/hw3-logistic.png",
+      "source_member": "Bart/Assignments/Bart HW3.docx::word/media/image1.png",
+      "sha256": "305d8f08b93f3c13be4b279c9bc92c252e0e09525c7c1c31a182c5e79879be54"
+    },
+    {
+      "path": "outputs/hw3-privacy-mosaic.png",
+      "source_member": "Bart/Assignments/Bart HW3.docx::word/media/image15.png",
+      "sha256": "5e9427c7c150b8fce17561a4bb2651ab22296f77a44efa4226a776d2da60b596"
+    },
+    {
+      "path": "outputs/hw4-diversity.png",
+      "source_member": "Bart/Assignments/Bart HW4.docx::word/media/image1.png",
+      "sha256": "11836f2c3b9bb4cf1521ddf2e77b1ad14315cf243a3ab14d2a195f98646492f5"
+    },
+    {
+      "path": "outputs/hw4-mixed-model.png",
+      "source_member": "Bart/Assignments/Bart HW4.docx::word/media/image10.png",
+      "sha256": "d76f97000f899aed5925066e390e95013b872405aa6c0f63b89059a6b9fac88e"
+    }
+  ]
+}
