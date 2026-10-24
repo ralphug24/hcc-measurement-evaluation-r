@@ -6,6 +6,17 @@ Four coursework assignments showing how I learned to evaluate human-centered com
 
 **[Portfolio overview](https://ralphugboko.dev/projects?discipline=school-projects&project=measurement-evaluation-r)** · **[Skills and interpretation guide](docs/skills-guide.md)** · **[Course syllabus](https://www.usabart.nl/eval/)**
 
+## What I learned
+
+- Choose an analysis that fits the research question, outcome type and study structure.
+- Compare interface conditions and distinguish main effects from interactions.
+- Interpret estimates, confidence intervals and effect sizes alongside p-values.
+- Inspect regression assumptions and compare what additional model terms contribute.
+- Account for repeated observations from the same participant.
+- Explain model output in terms a design or engineering collaborator can use.
+
+The [course learning and interpretation guide](docs/skills-guide.md) maps these skills to the four assignments and explains how I can apply them to user research and interface evaluation.
+
 ## Start with an assignment
 
 | Assignment | Skills practiced | Read the assignment | R source |

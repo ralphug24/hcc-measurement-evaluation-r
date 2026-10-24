@@ -2,6 +2,29 @@
 
 This guide explains the learning progression in the four Spring 2024 assignments. It accompanies the original submissions and their saved R output.
 
+## What I learned across the course
+
+The assignments developed my ability to connect a user research question to a suitable analysis, work through that analysis in R and explain the evidence. The common thread was choosing and interpreting a method in light of the outcome, the study structure and its assumptions.
+
+| Skill developed | Where I practiced it | What I take forward |
+| --- | --- | --- |
+| Match a method to a question | Homework 1 and 3: continuous, binary, count and categorical outcomes | Define the outcome and predictors before selecting a test or model |
+| Compare interface conditions | Homework 2: t-tests, ANOVA, contrasts and interactions | Separate main effects, planned comparisons and interactions |
+| Explain uncertainty and effect size | Homework 1 and 2: confidence intervals, estimates and effect sizes | Consider magnitude and precision alongside statistical evidence |
+| Check model assumptions | Homework 1: residuals, influence diagnostics, collinearity and bootstrap exercises | Investigate whether a result depends on problematic observations or assumptions |
+| Account for repeated observations | Homework 4: repeated-measures methods and random intercepts | Distinguish observations from independent participants |
+| Communicate an interpretable conclusion | All four assignments: written explanations alongside saved outputs | Explain a coefficient on the right scale and connect it to the research question |
+
+## How I can apply this to user research and interface evaluation
+
+- **Plan a comparison:** identify the interface conditions, outcome measures and whether each participant experiences one condition or several.
+- **Choose the analysis deliberately:** a rating, binary success indicator and count each call for different modeling considerations. Repeated responses require attention to participant grouping.
+- **Inspect the evidence:** look at distributions, estimates, uncertainty and model diagnostics before summarizing the result.
+- **Communicate a decision input:** explain the size and precision of a difference, what the study supports and what further evidence would help a team choose a direction.
+- **Make the analysis inspectable:** retain commands, outputs and interpretations together so collaborators can follow how the conclusion was reached.
+
+These are applications of the skills developed through supplied-data exercises. The coursework does not establish that I recruited these participants or built the interfaces under study. The saved original reports and scripts remain the evidence of the assignments; this guide explains the methods and their interpretation.
+
 ## Homework 1: describe data and build an explanatory model
 
 **Evaluation question:** how are recommendation quality, perceived control and understandability associated with satisfaction?
